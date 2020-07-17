@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Cape Town",
+        "id": "cpt",
+        "image": "https://suitcasemag.com/wp-content/uploads/2020/01/cape-town.jpg"
+    },
+    {
+        "name": "Port Elizabeth",
+        "id": "PE",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoaRWKVIXRFTw3DNDVwLnyNkvWkXxv6Rdu2w&usqp=CAU"
+    },
+    {
+        "name": "Johannersburg",
+        "id": "jhb",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSlQtlB_K_IIrV8-YjQMjoh2phr-ll0-08D1A&usqp=CAU"
+    }
+]
